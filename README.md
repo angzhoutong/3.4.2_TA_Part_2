@@ -1,4 +1,4 @@
-# 2.4.2_TA_Part_2
+# 3.4.2_TA_Part_2
 
 Part 2: task instruction
 In this assignment, your team will make the HTML pages for the theme park web site that you designed in the first part of the assignment. You will upload your HTML pages onto the Workspace: static web pages that is located in the end of week 10 and generate a shareable URL so that they can be accessed using the URL. Read the instruction for part 2 of the team project, organise your teamwork and submit the completed material for peer review. We recommend to make a submission within one week. When you are ready, return to week 6 and make a submission in 'Peer-graded Assignment: 3.4.3 Team assignment. Part 2'  
